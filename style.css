@@ -47,3 +47,26 @@ footer {
   text-align: center;
   color: white;
 }
+
+footer {
+  background-colour: #1E3A5F;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  }
+
+  footer input {
+    padding 8px;
+    width; 200px;
+   }
+
+   footer button {
+     padding; 8px 15px;
+     background-color: #4CAF50;
+     color; white;
+     border; none;
+    }
+
+    footer button:hover {
+      background-color: #45a049;
+     }
